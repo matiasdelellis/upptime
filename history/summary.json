@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/delellis.com.ar.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.36%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
     "time": 1255,
     "timeDay": 1255,
     "timeWeek": 1255,
     "timeMonth": 1255,
     "timeYear": 1255,
     "dailyMinutesDown": {
-      "2024-07-03": 0
+      "2024-07-03": 12
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.delellis.com.ar.ico",
     "slug": "correo",
     "status": "up",
-    "uptime": "21.51%",
-    "uptimeDay": "21.51%",
-    "uptimeWeek": "21.51%",
-    "uptimeMonth": "21.51%",
-    "uptimeYear": "21.51%",
+    "uptime": "22.80%",
+    "uptimeDay": "22.80%",
+    "uptimeWeek": "22.80%",
+    "uptimeMonth": "22.80%",
+    "uptimeYear": "22.80%",
     "time": 489,
     "timeDay": 489,
     "timeWeek": 489,
@@ -80,17 +80,19 @@
     "url": "https://music.delellis.com.ar/gonic",
     "icon": "https://icons.duckduckgo.com/ip3/music.delellis.com.ar.ico",
     "slug": "gonic",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1123,
-    "timeDay": 1123,
-    "timeWeek": 1123,
-    "timeMonth": 1123,
-    "timeYear": 1123,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1047,
+    "timeDay": 1047,
+    "timeWeek": 1047,
+    "timeMonth": 1047,
+    "timeYear": 1047,
+    "dailyMinutesDown": {
+      "2024-07-03": 0
+    }
   }
 ]

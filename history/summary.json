@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.delellis.com.ar.ico",
     "slug": "correo",
     "status": "up",
-    "uptime": "10.37%",
-    "uptimeDay": "10.37%",
-    "uptimeWeek": "10.37%",
-    "uptimeMonth": "10.37%",
-    "uptimeYear": "10.37%",
+    "uptime": "10.38%",
+    "uptimeDay": "10.38%",
+    "uptimeWeek": "10.38%",
+    "uptimeMonth": "10.38%",
+    "uptimeYear": "10.38%",
     "time": 489,
     "timeDay": 489,
     "timeWeek": 489,
@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.delellis.com.ar.ico",
     "slug": "gonic",
     "status": "up",
-    "uptime": "1.23%",
-    "uptimeDay": "1.23%",
-    "uptimeWeek": "1.23%",
-    "uptimeMonth": "1.23%",
-    "uptimeYear": "1.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1123,
     "timeDay": 1123,
     "timeWeek": 1123,
     "timeMonth": 1123,
     "timeYear": 1123,
-    "dailyMinutesDown": {
-      "2024-07-03": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]

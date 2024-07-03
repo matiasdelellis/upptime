@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**[Upptime](https://github.com/upptime/upptime)** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Aqui lo uso para controlar algunos servicios, pero ¡Que quede hosteado fuera de mis servidores!. :tada:
+  introMessage: "Aqui lo uso para controlar algunos servicios, pero ¡Que quede hosteado fuera de mis servidores!. :tada:"
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO

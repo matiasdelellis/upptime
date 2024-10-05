@@ -11,6 +11,8 @@ sites:
     url: https://mail.delellis.com.ar
     expectedStatusCodes:
       - 401
+  - name: Zabbix
+    url: https://zabbix.delellis.com.ar
   - name: collabora/code
     url: https://office.delellis.com.ar/health
   - name: gonic

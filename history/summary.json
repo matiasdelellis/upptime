@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/delellis.com.ar.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "93.52%",
+    "uptime": "93.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.63%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "97.71%",
-    "time": 1300,
-    "timeDay": 1119,
-    "timeWeek": 1204,
-    "timeMonth": 1265,
-    "timeYear": 1287,
+    "time": 1291,
+    "timeDay": 1240,
+    "timeWeek": 1193,
+    "timeMonth": 1262,
+    "timeYear": 1284,
     "dailyMinutesDown": {
       "2025-11-26": 541,
       "2025-11-05": 36,
@@ -29,8 +29,7 @@
       "2025-10-18": 1159,
       "2024-12-26": 38,
       "2024-12-10": 55,
-      "2024-12-03": 1367,
-      "2024-12-02": 420
+      "2024-12-03": 1367
     }
   },
   {
@@ -44,11 +43,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 258,
-    "timeWeek": 363,
-    "timeMonth": 401,
-    "timeYear": 397,
+    "time": 446,
+    "timeDay": 409,
+    "timeWeek": 328,
+    "timeMonth": 400,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2025-10-08": 21
     }
@@ -64,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 177,
-    "timeWeek": 325,
+    "time": 400,
+    "timeDay": 416,
+    "timeWeek": 313,
     "timeMonth": 359,
-    "timeYear": 394,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2025-10-08": 21
     }
@@ -79,18 +78,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zabbix.delellis.com.ar.ico",
     "slug": "zabbix",
     "status": "down",
-    "uptime": "83.84%",
+    "uptime": "83.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.86%",
+    "uptimeYear": "82.59%",
     "time": 733,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 742,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2025-12-01": 14,
+      "2025-12-02": 11,
+      "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
@@ -164,16 +164,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/office.delellis.com.ar.ico",
     "slug": "collabora-code",
     "status": "up",
-    "uptime": "94.87%",
+    "uptime": "94.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.64%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "97.70%",
-    "time": 843,
-    "timeDay": 873,
-    "timeWeek": 775,
-    "timeMonth": 749,
-    "timeYear": 824,
+    "time": 844,
+    "timeDay": 913,
+    "timeWeek": 780,
+    "timeMonth": 760,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2025-11-26": 540,
       "2025-10-31": 532,
@@ -186,8 +186,7 @@
       "2025-10-18": 1158,
       "2025-10-08": 138,
       "2024-12-10": 55,
-      "2024-12-03": 1367,
-      "2024-12-02": 420
+      "2024-12-03": 1367
     }
   },
   {
@@ -196,18 +195,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.delellis.com.ar.ico",
     "slug": "gonic",
     "status": "down",
-    "uptime": "23.81%",
+    "uptime": "23.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "3.24%",
-    "time": 912,
-    "timeDay": 607,
-    "timeWeek": 719,
-    "timeMonth": 718,
-    "timeYear": 807,
+    "uptimeYear": "2.97%",
+    "time": 910,
+    "timeDay": 772,
+    "timeWeek": 731,
+    "timeMonth": 723,
+    "timeYear": 801,
     "dailyMinutesDown": {
-      "2025-12-01": 14,
+      "2025-12-02": 11,
+      "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
@@ -561,8 +561,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1282,
       "2024-12-10": 54,
-      "2024-12-03": 1367,
-      "2024-12-02": 419
+      "2024-12-03": 1367
     }
   }
 ]

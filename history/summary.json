@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/delellis.com.ar.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "92.01%",
+    "uptime": "92.02%",
     "uptimeDay": "97.17%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "98.04%",
@@ -118,14 +118,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "57.68%",
+    "uptimeYear": "57.67%",
     "time": 733,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 1403,
+      "2026-03-12": 14,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -338,9 +339,9 @@
     "slug": "gonic",
     "status": "down",
     "uptime": "28.84%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "15.08%",
     "time": 1531,
     "timeDay": 0,
@@ -348,7 +349,8 @@
     "timeMonth": 3622,
     "timeYear": 2030,
     "dailyMinutesDown": {
-      "2026-03-11": 40,
+      "2026-03-12": 14,
+      "2026-03-11": 77,
       "2026-02-20": 40,
       "2026-02-09": 96,
       "2026-01-23": 118,
@@ -660,8 +662,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   }
 ]
